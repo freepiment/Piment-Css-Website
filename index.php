@@ -12,7 +12,7 @@ include_once 'core/inc/head.inc.php';
             <a href="/get-started.php" class="btn btn--md btn--accent mt-2">Get started →</a>
             <ul class="links mt-1">
                 <li><a href="https://github.com/WebmonsterA/Piment-Css" rel="noopener nofollow">Github Project</a></li>
-                <li>Version 0.3.39</li>
+                <li>Version 0.3.40</li>
             </ul>
         </div>
     </div>
